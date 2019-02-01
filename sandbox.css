@@ -3,3 +3,13 @@
     CODE YOUR STYLES BELOW!
 
    ====================================== */
+
+.layout1 main {
+    display: flex;
+}
+
+.layout1 article {
+    flex: 1 58%;
+    margin-right: 2%;
+
+}
